@@ -1,0 +1,12 @@
+name: blocify
+description: A library that makes using the BLoC (Business Logic Component) design pattern easier.
+version: 0.0.2
+repository: https://github.com/san-smith/blocify
+issue_tracker: https://github.com/san-smith/blocify/issues
+homepage: https://github.com/san-smith/blocify
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  bloc: ^4.0.0
