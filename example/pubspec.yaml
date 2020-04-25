@@ -14,6 +14,7 @@ dependencies:
     path: ../
   
   flutter_bloc: ^4.0.0
+  dio: ^3.0.9
 
 
 dev_dependencies:
